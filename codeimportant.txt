@@ -1,0 +1,177 @@
+https://www.youtube.com/watch?v=5BED0R0G3ow
+
+https://www.youtube.com/watch?v=MeWjI1mOfyo&index=5&list=PLBbHLUbqqCrTwIrdix6kl84m4OPE0JexR
+
+
+https://www.hellobar.com/?sid=593089&hbt=animated<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Claudio Oliveira</title>
+
+	<!-- Bootstrap -->
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+</head>
+<body>
+	<nav class="navbar navbar-fixed-top navbar-expand-lg navbar-dark bg-warning">
+		<div class="container">
+
+		<a class="navbar-brand">Curso</a>
+		<button class="navbar-toggler" type="button" data-toogle="collapse" data-ytarget="#navbarSite">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+
+		<div class="collapse navbar-collapse" id="#navbarSite">
+		<ul class="navbar-nav nr-auto">
+			<li class="nav-item">
+				<a class="nav-link" href="#">Inicio</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="#">Perfil</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="#">Serviços</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="#">Depoimentos</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="#">Contato</a>
+			</li>
+		</ul>
+		<ul class="navbar-nav nl-20">
+			<li class="nav-item dropdown">
+				<a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" id="navDrop">Social</a>
+				<div class="dropdown-menu">
+					<a class="dropdown-item" href="#">Facebook</a>
+					<a class="dropdown-item" href="#">Twitter</a>
+					<a class="dropdown-item" href="#">Insta</a>
+					
+				</div>
+			</li>			
+		</ul>
+		<form class="form-inline ml-4 mr-6">
+			<input class="form-control" type="search" placeholder="Busca...">
+			<button class="btn btn-dark" type="submit">Ok</button>
+		</form>
+		</div>
+			</div>
+	</nav>
+	
+
+	<script src="js/jquery.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+
+</body>
+</html>
+
+
+SKMEI Nova ModaHomens Esportes RelógiosHomens RelógiosQuartzo Militar Analógico Digital LED RelógioÀProvaDÁgua 
+
+
+Novo TheAvenger SuperHerói HomemDeFerroMáscara Brinquedos Action Figure Chaveiro Pingente Chaveiro BonecoparaMeninos presente
+
+
+<p>
+  <a class="btn btn-primary" data-toggle="collapse" href="#multiCollapseExample1" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">Toggle first element</a>
+  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">Toggle second element</button>
+  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target=".multi-collapse" aria-expanded="false" aria-controls="multiCollapseExample1 multiCollapseExample2">Toggle both elements</button>
+</p>
+<div class="row">
+  <div class="col">
+    <div class="collapse multi-collapse" id="multiCollapseExample1">
+      <div class="card card-body">
+        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="collapse multi-collapse" id="multiCollapseExample2">
+      <div class="card card-body">
+        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+https://www.youtube.com/watch?v=1K2x9qIjT6Q
+
+https://www.youtube.com/watch?v=N6ziNQ9sCBc
+
+https://www.youtube.com/watch?v=uQz9v_euj9Q
+
+https://www.youtube.com/watch?v=WagsVgBH4R8
+
+<h1 class="display-4 font-size-48--md-down mb-3">Introducing Front</h1>
+
+<p>
+                Your company will look
+                <span class="text-primary">
+                  <strong class="u-text-animation u-text-animation--typing">more professio</strong><span class="typed-cursor" style="animation-iteration-count: 0;">|</span>
+                </span>
+                <br>
+                Covert more visitors, and win more business with Front template.
+              </p>
+
+#510fa8!important;
+
+ style="background: #510fa8!important";
+#00ff00
+-----------------------------------
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sistema de Cadastro</title>
+	<link rel="stylesheet" type="text/css" href="css/estilo.css">
+</head>
+<body>
+	<div class="container">
+		<nav>
+			<ul class="menu">
+				<a href="index.php"><li>Cadastro</li></a>
+				<a href="consultas.php"><li>Consultas</li></a>
+				
+			</ul>
+		</nav>
+		<section>
+			<h1>Cadastro de Usúarios</h1>
+			<hr><br><br>
+
+			<form method="post" action="processa.php">
+				<input type="submit" value="Salvar" class="btn">
+				<input type="reset" value="Limpar" class="btn">
+				<br><br>
+				Nome<br>
+				<input type="text" name="nome" class="campo" maxlength="40" required autofocus placeholder="Digite nome completo"><br>
+				Email<br>
+				<input type="email" name="email" class="campo" maxlength="50" required placeholder="Digite seu email"><br>
+				Profissão<br>
+				<input type="text" name="profissao" class="campo" maxlength="40" required placeholder="Digite a profissão"><br>
+				
+			</form>
+		</section>
+	</div>
+
+</body>
+</html>
+
+
+<div class="row">
+				<div class="col-md-5">
+			<p>Em que posso está lhe ajudando ?</p>
+			<p>Fale comigo via inbox e vamos nos conhecer melhor!!</p>
+			</div>
+			</div>
+			<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-5">
+			<p>Em que posso está lhe ajudando ?</p>
+			<p>Fale comigo via inbox e vamos nos conhecer melhor!!</p>
+			</div>
+			</div>
+			</div>
